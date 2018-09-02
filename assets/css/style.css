@@ -39,6 +39,16 @@ h3	{
 	padding-bottom: 3px;
 }
 
+.game{
+
+  	color: #4aaaa5;
+  	border-bottom:	3px solid #dddddd;
+  	font-family: 'Georgia', Times, Times New Roman, serif;
+  	margin-top: 1px;
+  	padding-bottom: 3px;
+
+}
+
 nav	{
 	width: 270px;
 	float: right;
@@ -160,6 +170,7 @@ footer {
 }
 
 .project {
+  height: 107.5px;
 	float: left;
 	position: relative;
 	top:	-10px;
@@ -169,9 +180,9 @@ footer {
 .project-title {
 	float: left;
 	position: relative;
-	top: -50px;
+	top: -20px;
 	width: 100%;
-	height: 30px;
+	height: 25px;
 	background-color: #4aaaa5;
 	color: #ffffff;
 	text-align: center;
@@ -209,6 +220,7 @@ footer {
 	position: relative;
 	text-align: left;
 	width: 650px;
+  height: auto;
 	top: 30px;
 	margin-left: 125px;
 	margin-bottom: 50px;
