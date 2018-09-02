@@ -176,6 +176,16 @@ footer {
 	top:	-10px;
 	width: 100%;
 }
+.project1 {
+  height: 350px;
+	float: left;
+	position: relative;
+	top:	-10px;
+	width: 100%;
+}
+
+
+
 
 .project-title {
 	float: left;
@@ -246,5 +256,27 @@ footer {
 
 #project-portfolio {
 	padding: 15px;
-	height: 500px;
+	height: auto;
+}
+
+#project-game {
+  padding: 15px;
+	position: relative;
+	text-align: left;
+	width: 650px;
+  height: 790px;
+	top: 30px;
+	margin-left: 125px;
+	margin-bottom: 50px;
+}
+
+#project-port {
+  padding: 15px;
+	position: relative;
+	text-align: left;
+	width: 650px;
+  height: 230px;
+	top: 30px;
+	margin-left: 125px;
+	margin-bottom: 50px;
 }
